@@ -12,4 +12,6 @@ export class CrewComponent implements OnInit {
   ngOnInit() {
   }
 
+  myArray: string[] = ['hi', 'hello', 'how are you']
+
 }
